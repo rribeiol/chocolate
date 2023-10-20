@@ -26,7 +26,6 @@ Esta API é usada para calcular a quantidade de cacau necessária para produzir 
 
 - JDK 11
 - Maven
-- MongoDB
 
 ### Passos para instalação
 

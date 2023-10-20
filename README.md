@@ -57,11 +57,7 @@ A API utiliza OAuth2 para autenticação segura. Para obter um token:
 
 ### Endpoints
 
-- Iniciar Máquina: `POST /api/v1/máquina/iniciar`
-- Parar Máquina: `POST /api/v1/máquina/parar`
-- Status da Máquina: `GET /api/v1/máquina/status`
-- Quantidade de Cacau Necessária: `GET /api/v1/cacau`
-- Estatísticas: `GET /api/v1/estatísticas`
+- Quantidade de Cacau Necessária: `GET /api/chocolate/calculateCocoa/{type}/{totalAmount}`
 
 ## Documentação Swagger UI
 

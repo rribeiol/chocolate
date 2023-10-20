@@ -89,8 +89,8 @@ Para rodar os testes, execute o seguinte comando:
 
 - Java 11
 - Spring Boot
-- MongoDB
-- OAuth2
+- Actuator
+- Swagger
 
 ## Contribuição
 
